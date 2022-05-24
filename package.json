@@ -1,0 +1,19 @@
+{
+  "name": "curso-webpack-proy",
+  "version": "1.0.0",
+  "description": "proyecto de webpack inicial",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "javascript"
+  ],
+  "author": "Arturo Knees <artuknees@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
